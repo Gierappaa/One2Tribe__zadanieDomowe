@@ -1,6 +1,6 @@
 ## One2tribe - zadanie
 
-W tym projekcie wykożystałem:
+W tym projekcie wykorzystałem:
 * Create React App (React JS),
 * React Router,
 * Axios,
