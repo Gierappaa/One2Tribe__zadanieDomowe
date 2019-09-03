@@ -1,0 +1,15 @@
+.button {
+  border: button-border;
+  &_has_border {
+    border: 2px solid yellow
+
+  }
+
+  &_uppercase { 
+    text-transform: uppercase;
+  }
+
+  &_background{
+    background: white;
+  }
+}
